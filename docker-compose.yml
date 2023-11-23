@@ -1,6 +1,6 @@
 version: '3'
 services:
-  timer-chalenge-app:
+  timer-challenge-app:
     build:
       context: .  # Katalog, w którym znajduje się Dockerfile (aktualny katalog)
       dockerfile: Dockerfile  # Nazwa pliku Dockerfile
